@@ -1,4 +1,4 @@
-## Hi! 👋 
+## <center>Hi! 👋</center>
 
 * I'm very interested in software development and learning a lot of different programming languages.
 * I'm learning web development and learning to develop apps for Android and Windows.
