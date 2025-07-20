@@ -1,4 +1,4 @@
-# <p align="center">Hi there! 👋</p>
+## <p align="center">Hi there! 👋</p>
 
 * I'm very interested in software development and learning a lot of different programming languages.
 * I'm learning web development and learning to develop apps for Android and Windows.
